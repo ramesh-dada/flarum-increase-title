@@ -1,0 +1,1 @@
+# flarum-increase-title
