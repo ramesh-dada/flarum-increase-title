@@ -3,7 +3,7 @@
     "description": "Increase Title Limit in Flarum to 180 characters",
     "keywords": [
       "flarum",
-      "theme"
+      "increase-title"
     ],
     "type": "flarum-extension",
     "license": "MIT",
