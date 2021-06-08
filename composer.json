@@ -16,7 +16,7 @@
       "source": "https://github.com/ramesh-dada/flarum-increase-title"
     },
     "require": {
-      "flarum/core": "^1.0.0"
+      "flarum/core": "^1.0"
     },
     "autoload": {
       "psr-4": {
